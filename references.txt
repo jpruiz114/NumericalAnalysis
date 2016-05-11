@@ -1,0 +1,5 @@
+Gruenberger, F. "Computer Recreations: How to Handle Numbers with Thousands of Digits, and Why One Might Want To." Sci. Amer. 250, 19-26, Apr. 1984.
+http://www.nature.com/scientificamerican/journal/v250/n4/pdf/scientificamerican0484-19.pdf
+Computer Recreations + Fred Gruenberger
+http://martin-gardner.org/MGSAindex.html
+http://bit-player.org/2010/gruenbergers-prime-path
