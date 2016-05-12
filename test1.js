@@ -19,8 +19,15 @@
 //var strDivisor = "666";
 
 // ok
-var strDividend = "10";
-var strDivisor = "2";
+//var strDividend = "10";
+//var strDivisor = "2";
+
+// ok
+//var strDividend = "8";
+//var strDivisor = "2";
+
+var strDividend = "1";
+var strDivisor = "1";
 
 var arrDividend = strDividend.split("");
 var arrDivisor = strDivisor.split("");
